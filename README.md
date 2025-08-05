@@ -1,212 +1,301 @@
-# 🚀 Tutorial Completo de React
+# 🏴‍☠️ One Piece API & AI ChatBox
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="200" height="200"/>
+  <img src="https://i.imgur.com/9WK4N1x.png" alt="One Piece Logo" width="300" height="200"/>
   
-  ### 📚 Una guía completa y práctica para dominar React desde cero
+  ### ⚔️ API completa de One Piece con ChatBox inteligente powered by Gemini 2.0
   
-  [![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![Node.js](https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-  [![Vite](https://img.shields.io/badge/Vite-5+-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+  [![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+  [![NestJS](https://img.shields.io/badge/NestJS-10+-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+  [![Gemini](https://img.shields.io/badge/Gemini%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
   
   <br/>
   
   [![Creado por](https://img.shields.io/badge/Creado%20por-Alberto%20Marin-blue?style=flat-square&logo=github)](https://github.com/albertomarin)
   [![Licencia](https://img.shields.io/badge/Licencia-MIT-green?style=flat-square)](LICENSE)
-  [![Estrellas](https://img.shields.io/github/stars/albertomarin/react-tutorial?style=flat-square&color=yellow)](https://github.com/albertomarin/react-tutorial/stargazers)
+  [![En Desarrollo](https://img.shields.io/badge/Estado-En%20Desarrollo-orange?style=flat-square)](https://github.com/albertomarin/onepiece-api)
   
 </div>
 
 ---
 
-## 🎯 ¿Qué aprenderás?
+## 🎯 ¿Qué es este proyecto?
 
-Este tutorial te llevará desde **cero hasta héroe** en React, cubriendo todos los conceptos fundamentales y avanzados que necesitas para construir aplicaciones web modernas y escalables.
+Una **API REST completa** del universo de One Piece que incluye información detallada sobre personajes, frutas del diablo, arcos narrativos, tripulaciones y mucho más. Además, cuenta con un **chatbox inteligente** que utiliza **Gemini 2.0** para responder todas tus dudas sobre el mundo de los piratas más famoso del anime/manga.
 
-### 📋 Contenido del Tutorial
+### ✨ Características Principales
 
-- [x] **Fundamentos de React**
-- [x] **JSX y Componentes**
-- [x] **Props y State**
-- [x] **Eventos y Manejo de Estado**
-- [x] **Hooks Esenciales** (useState, useEffect, useContext)
-- [x] **Hooks Avanzados** (useReducer, useMemo, useCallback)
-- [x] **Routing con React Router**
-- [x] **Context API y Estado Global**
-- [x] **Formularios y Validación**
-- [x] **Optimización de Performance**
-- [x] **Testing con Jest y React Testing Library**
-- [x] **Deployment y Producción**
+- 🔍 **API REST completa** con datos exhaustivos de One Piece
+- 🤖 **ChatBox AI** powered by Gemini 2.0 para consultas inteligentes
+- 📱 **Frontend responsive** con Next.js 14 y App Router
+- ⚡ **Backend robusto** con NestJS y TypeScript
+- 🗄️ **Base de datos escalable** con Supabase
+- 🔐 **Autenticación segura** y gestión de usuarios
+- 📊 **Panel de administración** para gestionar contenido
+- 🎨 **UI/UX moderna** con Tailwind CSS
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## �️ Mi RoadMap de Desarrollo
 
 <div align="center">
 
-| Tecnología | Versión | Descripción |
-|------------|---------|-------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | 18.2+ | Biblioteca principal |
-| ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | 5.0+ | Build tool ultra rápido |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 5.0+ | Tipado estático |
-| ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | 3.4+ | Framework CSS |
-| ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white) | 6.8+ | Routing |
+### 📚 Stack Tecnológico que estoy dominando
+
+| Tecnología | Estado | Descripción | Recursos |
+|------------|--------|-------------|----------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-🚀-3178C6?style=flat-square&logo=typescript) | **Completado** | Fundamentos y tipos avanzados | [Mi progreso](./docs/typescript-progress.md) |
+| ![React](https://img.shields.io/badge/React/Next.js-⚡-000000?style=flat-square&logo=next.js) | **En progreso** | Next.js 14, App Router, Server Components | [Mi progreso](./docs/nextjs-progress.md) |
+| ![NestJS](https://img.shields.io/badge/NestJS-🔥-E0234E?style=flat-square&logo=nestjs) | **Siguiente** | API REST, Guards, Interceptors | [Planificado](./docs/nestjs-roadmap.md) |
+| ![Supabase](https://img.shields.io/badge/Supabase-📊-3FCF8E?style=flat-square&logo=supabase) | **Siguiente** | Database, Auth, Real-time | [Planificado](./docs/supabase-roadmap.md) |
+| ![Gemini](https://img.shields.io/badge/Gemini%202.0-🤖-4285F4?style=flat-square&logo=google) | **Final** | AI Integration, Prompt Engineering | [Planificado](./docs/gemini-integration.md) |
 
 </div>
 
 ---
 
-## 🚀 Inicio Rápido
+## 🛠️ Arquitectura del Proyecto
+
+<div align="center">
+
+```mermaid
+graph TB
+    A[👤 Usuario] --> B[🖥️ Next.js Frontend]
+    B --> C[🚀 NestJS API]
+    C --> D[📊 Supabase Database]
+    C --> E[🤖 Gemini 2.0 AI]
+    
+    B --> F[🎨 Tailwind CSS]
+    C --> G[🔐 JWT Auth]
+    D --> H[📋 One Piece Data]
+    E --> I[💬 ChatBox Responses]
+```
+
+</div>
+
+---
+
+## 🏴‍☠️ Funcionalidades de la API
+
+### 👥 Personajes
+- **Mugiwara no Ichimi** (Tripulación del Sombrero de Paja)
+- **Yonko** y sus tripulaciones
+- **Marines** y Almirantes
+- **Shichibukai** y ex-miembros
+- **Revolucionarios**
+- **Supernovas**
+
+### 🍎 Frutas del Diablo
+- **Paramecia** - Poderes sobrenaturales
+- **Zoan** - Transformaciones animales
+- **Logia** - Control de elementos naturales
+- **Frutas Especiales** y **Despertares**
+
+### 🗺️ Arcos y Sagas
+- **East Blue Saga**
+- **Alabasta Saga**
+- **Water 7 Saga**
+- **Thriller Bark**
+- **Summit War Saga**
+- **New World Saga**
+- **Wano Country Arc**
+
+### 🏝️ Islas y Ubicaciones
+- **Grand Line**
+- **New World**
+- **Red Line**
+- **Islas específicas** con detalles geográficos
+
+---
+
+## 🤖 ChatBox Inteligente
+
+El chatbox utiliza **Gemini 2.0** para proporcionar respuestas contextualizadas sobre:
+
+- 💡 **Consultas sobre personajes**: "¿Cuáles son los poderes de Luffy?"
+- 🔍 **Búsquedas específicas**: "Muéstrame todas las frutas Logia"
+- 📊 **Comparaciones**: "¿Quién es más fuerte entre Zoro y Sanji?"
+- 🎯 **Teorías y análisis**: "¿Qué sabemos sobre el One Piece?"
+- 📚 **Cronología**: "¿En qué orden ocurrieron los arcos?"
+
+---
+
+## 🚀 Instalación y Configuración
 
 ### Prerrequisitos
-Antes de comenzar, asegúrate de tener instalado:
-
-- [Node.js](https://nodejs.org/) (versión 16 o superior)
-- [Git](https://git-scm.com/)
-- Un editor de código ([VS Code](https://code.visualstudio.com/) recomendado)
-
-### Instalación
-
-1. **Clona el repositorio**
-   ```bash
-   git clone https://github.com/albertomarin/react-tutorial.git
-   cd react-tutorial
-   ```
-
-2. **Instala las dependencias**
-   ```bash
-   npm install
-   # o usando yarn
-   yarn install
-   ```
-
-3. **Inicia el servidor de desarrollo**
-   ```bash
-   npm run dev
-   # o usando yarn
-   yarn dev
-   ```
-
-4. **¡Abre tu navegador!**
-   
-   Visita [http://localhost:5173](http://localhost:5173) y comienza tu aventura con React 🎉
-
----
-
-## 📚 Estructura del Proyecto
-
+```bash
+Node.js >= 18.0.0
+npm >= 9.0.0
+Git
+Cuenta de Supabase
+API Key de Google Gemini
 ```
-react-tutorial/
-├── 📁 src/
-│   ├── 📁 components/          # Componentes reutilizables
-│   ├── 📁 hooks/              # Custom hooks
-│   ├── 📁 pages/              # Páginas principales
-│   ├── 📁 context/            # Context providers
-│   ├── 📁 utils/              # Funciones utilitarias
-│   ├── 📁 styles/             # Estilos globales
-│   └── 📄 main.jsx            # Punto de entrada
-├── 📁 public/                 # Archivos estáticos
-├── 📁 docs/                   # Documentación adicional
-├── 📁 examples/               # Ejemplos prácticos
-└── 📄 README.md               # Este archivo
+
+### 1. Clonar el Repositorio
+```bash
+git clone https://github.com/albertomarin/onepiece-api.git
+cd onepiece-api
+```
+
+### 2. Configurar Frontend (Next.js)
+```bash
+cd frontend
+npm install
+cp .env.example .env.local
+# Configurar variables de entorno
+npm run dev
+# 🌐 Frontend: http://localhost:3000
+```
+
+### 3. Configurar Backend (NestJS)
+```bash
+cd backend
+npm install
+cp .env.example .env
+# Configurar variables de entorno
+npm run start:dev
+# 🚀 API: http://localhost:3001
+```
+
+### 4. Configurar Base de Datos (Supabase)
+```bash
+# Ejecutar migraciones
+npm run db:migrate
+npm run db:seed
+# 📊 Base de datos lista con datos de One Piece
 ```
 
 ---
 
-## 🎓 Capítulos del Tutorial
+## � Estructura del Proyecto
 
-<details>
-<summary><strong>🏁 Capítulo 1: Fundamentos de React</strong></summary>
-
-- ¿Qué es React y por qué usarlo?
-- Configuración del entorno de desarrollo
-- Creando tu primera aplicación
-- JSX: La sintaxis de React
-
-</details>
-
-<details>
-<summary><strong>🧩 Capítulo 2: Componentes y Props</strong></summary>
-
-- Componentes funcionales vs de clase
-- Props: Pasando datos entre componentes
-- PropTypes y validación
-- Componentes anidados
-
-</details>
-
-<details>
-<summary><strong>🎭 Capítulo 3: Estado y Eventos</strong></summary>
-
-- El hook useState
-- Manejo de eventos
-- Formularios controlados
-- Estado vs Props
-
-</details>
-
-<details>
-<summary><strong>🔄 Capítulo 4: Efectos y Ciclo de Vida</strong></summary>
-
-- El hook useEffect
-- Limpieza de efectos
-- Dependencias de efectos
-- Llamadas a APIs
-
-</details>
-
-<details>
-<summary><strong>🚀 Capítulo 5: Hooks Avanzados</strong></summary>
-
-- useContext para estado global
-- useReducer para estados complejos
-- useMemo y useCallback para optimización
-- Custom hooks
-
-</details>
+```
+onepiece-api/
+├── �️ frontend/                  # Next.js App
+│   ├── app/                     # App Router
+│   ├── components/              # Componentes UI
+│   ├── hooks/                   # Custom Hooks
+│   ├── lib/                     # Utilidades
+│   └── styles/                  # Tailwind CSS
+├── 🚀 backend/                   # NestJS API
+│   ├── src/
+│   │   ├── characters/          # Módulo personajes
+│   │   ├── devil-fruits/        # Módulo frutas
+│   │   ├── arcs/                # Módulo arcos
+│   │   ├── chatbox/             # Módulo AI Chat
+│   │   └── auth/                # Autenticación
+│   └── prisma/                  # Schema de BD
+├── � database/                  # Scripts de Supabase
+│   ├── migrations/              # Migraciones
+│   └── seeds/                   # Datos iniciales
+├── 🤖 ai/                       # Configuración Gemini
+└── 📁 docs/                     # Documentación
+    ├── api/                     # Docs de API
+    └── roadmap/                 # Mi progreso
+```
 
 ---
 
-## 🎮 Proyectos Prácticos
+## � Endpoints Principales
 
-Durante el tutorial construiremos varios proyectos increíbles:
+### 👥 Personajes
+```typescript
+GET    /api/characters           // Todos los personajes
+GET    /api/characters/:id       // Personaje específico
+GET    /api/characters/crew/:id  // Por tripulación
+POST   /api/characters           // Crear personaje (Admin)
+```
 
-| Proyecto | Tecnologías | Demo | Código |
-|----------|-------------|------|--------|
-| 🎯 **Todo App** | React, LocalStorage | [Ver Demo](https://demo-todo.com) | [Código](./projects/todo-app) |
-| 🌦️ **Weather App** | React, API, Hooks | [Ver Demo](https://demo-weather.com) | [Código](./projects/weather-app) |
-| 🛒 **E-commerce** | React, Context, Router | [Ver Demo](https://demo-shop.com) | [Código](./projects/ecommerce) |
-| 📱 **Social Media** | React, Custom Hooks | [Ver Demo](https://demo-social.com) | [Código](./projects/social-app) |
+### 🍎 Frutas del Diablo
+```typescript
+GET    /api/devil-fruits         // Todas las frutas
+GET    /api/devil-fruits/:type   // Por tipo (Paramecia, Zoan, Logia)
+GET    /api/devil-fruits/:id     // Fruta específica
+```
+
+### 🤖 ChatBox AI
+```typescript
+POST   /api/chat/ask            // Enviar pregunta
+GET    /api/chat/history        // Historial de chat
+```
+
+---
+
+## 💭 Ejemplos de Uso del ChatBox
+
+<details>
+<summary><strong>🔍 Consulta sobre Personajes</strong></summary>
+
+**Usuario:** "¿Cuáles son todos los poderes de Monkey D. Luffy?"
+
+**Gemini AI:** "Luffy posee la fruta Gomu Gomu no Mi (ahora conocida como Hito Hito no Mi, Modelo: Nika), que le otorga:
+- Cuerpo elástico como goma
+- Inmunidad a ataques eléctricos
+- Gears (Técnicas especiales):
+  - Gear Second: Acelera su circulación
+  - Gear Third: Infla sus huesos
+  - Gear Fourth: Combina Haki y elasticidad
+  - Gear Fifth: Despertar de su fruta (Forma Nika)
+- Haki del Rey, Observación y Armamento dominados"
+
+</details>
+
+<details>
+<summary><strong>⚔️ Comparaciones de Poder</strong></summary>
+
+**Usuario:** "¿Quién ganaría entre Zoro y Mihawk actualmente?"
+
+**Gemini AI:** "Actualmente, Dracule Mihawk seguiría siendo superior a Roronoa Zoro:
+- Mihawk: El espadachín más fuerte del mundo
+- Zoro: Ha crecido enormemente en Wano, pero aún aspira a superar a Mihawk
+- Diferencias clave: Experiencia, dominio del Haki superior en Mihawk
+- Predicción: Zoro está cerca, pero Mihawk mantiene la ventaja por ahora"
+
+</details>
 
 ---
 
 ## 🎨 Capturas de Pantalla
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/61DAFB/000000?text=React+Tutorial" alt="Screenshot 1" width="45%"/>
-  <img src="https://via.placeholder.com/800x400/282C34/61DAFB?text=Proyectos+Prácticos" alt="Screenshot 2" width="45%"/>
+  <img src="https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=Frontend+Next.js+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Frontend" width="45%"/>
+  <img src="https://via.placeholder.com/800x400/E0234E/FFFFFF?text=NestJS+API+%E2%9A%A1" alt="Backend API" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x400/3FCF8E/FFFFFF?text=Supabase+Database+%F0%9F%93%8A" alt="Database" width="45%"/>
+  <img src="https://via.placeholder.com/800x400/4285F4/FFFFFF?text=Gemini+ChatBox+%F0%9F%A4%96" alt="AI ChatBox" width="45%"/>
 </div>
 
 ---
 
-## 🤝 Contribuciones
+## 📈 Mi Progreso Personal
 
-¡Las contribuciones son bienvenidas! Si encuentras errores o tienes ideas para mejorar el tutorial:
+### ✅ Completado
+- [x] **TypeScript fundamentals** - Tipos, interfaces, generics
+- [x] **React basics** - Hooks, componentes, estado
+- [x] **Tailwind CSS** - Utility-first CSS framework
 
-1. 🍴 Fork el proyecto
-2. 🌟 Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push a la rama (`git push origin feature/AmazingFeature`)
-5. 🔄 Abre un Pull Request
+### 🔄 En Progreso
+- [ ] **Next.js 14** - App Router, Server Components, SSR
+- [ ] **React avanzado** - Context, Reducers, Performance
+- [ ] **Diseño de UI/UX** - Componentes reutilizables
+
+### 📋 Próximamente
+- [ ] **NestJS** - Modules, Controllers, Services, Guards
+- [ ] **Supabase** - Database design, Auth, Real-time
+- [ ] **Gemini 2.0** - AI Integration, Prompt Engineering
+- [ ] **DevOps** - Docker, CI/CD, Deployment
 
 ---
 
-## 📞 Contacto y Soporte
+## 📞 Contacto y Seguimiento
 
 <div align="center">
 
-### 👨‍💻 Alberto Marin
+### 👨‍💻 Alberto Marin - Pirate Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-marin-morales/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albertomarin)
@@ -215,36 +304,41 @@ Durante el tutorial construiremos varios proyectos increíbles:
 
 </div>
 
-### 💬 ¿Tienes preguntas?
-- 🐛 [Reportar un bug](https://github.com/albertomarin/react-tutorial/issues)
-- 💡 [Sugerir una mejora](https://github.com/albertomarin/react-tutorial/issues)
-- 📧 [Contacto directo](mailto:alberto.marin@example.com)
+### �️ Sígueme en mi aventura
+- 📝 **Blog de desarrollo**: Documentando cada paso de mi aprendizaje
+- 🎥 **Videos de progreso**: Mostrando el desarrollo en tiempo real
+- 💬 **Streams de código**: Programando en vivo este proyecto
+- 📊 **Updates semanales**: Mi progreso con cada tecnología
+
+---
+
+## 🤝 Contribuciones
+
+¿Eres fan de One Piece y desarrollador? ¡Únete a la tripulación!
+
+1. 🍴 Fork el proyecto
+2. 🌟 Crea tu rama (`git checkout -b feature/new-character`)
+3. � Commit tus cambios (`git commit -m 'Add Gear 5 Luffy'`)
+4. 📤 Push a la rama (`git push origin feature/new-character`)
+5. 🔄 Abre un Pull Request
 
 ---
 
 ## 📜 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
----
-
-## ⭐ ¿Te gustó el tutorial?
-
-Si este tutorial te resultó útil, ¡no olvides darle una estrella! ⭐
-
-También puedes:
-- 🔄 Compartirlo con tus amigos
-- 📝 Dejar un comentario
-- 🎯 Seguirme para más contenido
+*Nota: Este es un proyecto de fans. One Piece pertenece a Eiichiro Oda y Shueisha.*
 
 ---
 
 <div align="center">
   
-  **¿Listo para dominar React? ¡Empecemos! 🚀**
+  **🏴‍☠️ ¿Listo para navegar por el Grand Line del desarrollo? ¡Zarpa conmigo! ⚓**
   
-  ![React](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
+  ![One Piece](https://media.giphy.com/media/MP1kygLQzjCve/giphy.gif)
   
-  <sub>Hecho con ❤️ por [Alberto Marin](https://github.com/albertomarin)</sub>
+  <sub>Hecho con ❤️ y mucho café ☕ por [Alberto Marin](https://github.com/albertomarin)</sub>
+  <sub>*"I'm gonna be King of the Developers!"* 👑</sub>
   
 </div>
