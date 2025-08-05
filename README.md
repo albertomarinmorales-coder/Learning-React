@@ -1,8 +1,8 @@
-# 🚀 Learning React - Mi RoadMap
+# 🚀 Learning React - Mi RoadMap ⚓
 
 <div align="center">
   
-  ### 👨‍💻 Aprendiendo desarrollo moderno paso a paso
+  ### 👨‍💻 Navegando hacia el desarrollo moderno como un verdadero pirata 🏴‍☠️
   
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -13,21 +13,23 @@
 
 ---
 
-## 🎯 Proyecto Final
+## 🎯 Proyecto Final - El Tesoro del Rey de los Piratas 👑
 
 **One Piece API & AI ChatBox** - Una API REST del universo de One Piece con chatbox inteligente usando Gemini 2.0.
 
+*"¡En la Grand Line del desarrollo web, cada bug es una aventura!"* 🌊
+
 ---
 
-## 🗺️ Mi RoadMap
+## 🗺️ Mi RoadMap - Rumbo al All Blue del Desarrollo 🌊
 
-| Tecnología | Estado | Descripción |
-|------------|--------|-------------|
-| **TypeScript** | 🔄 En progreso | Fundamentos y tipos avanzados |
-| **React/Next.js** | 🔄 En progreso | Hooks, componentes, App Router |
-| **NestJS** | ⏳ Siguiente | API REST, Guards, Services |
-| **Supabase** | ⏳ Siguiente | Database, Auth, Real-time |
-| **Gemini AI** | ⏳ Final | Integración AI, Prompts |
+| Tecnología | Estado | Descripción | Tripulante |
+|------------|--------|-------------|------------|
+| **TypeScript** | 🔄 En progreso | Fundamentos y tipos avanzados | Nami (Navegante) 🧭 |
+| **React/Next.js** | 🔄 En progreso | Hooks, componentes, App Router | Luffy (Capitán) 👨‍✈️ |
+| **NestJS** | ⏳ Siguiente | API REST, Guards, Services | Zoro (Espadachín) ⚔️ |
+| **Supabase** | ⏳ Siguiente | Database, Auth, Real-time | Robin (Arqueóloga) 📚 |
+| **Gemini AI** | ⏳ Final | Integración AI, Prompts | Franky (Cyborg) 🤖 |
 
 ---
 
@@ -43,17 +45,17 @@
 
 ## 📈 Mi Progreso
 
-### ▶ El comienzo
-- [✅] Tailwind CSS
-- [ ] TypeScript fundamentals
-- [ ] React básico (hooks, componentes)
+### ▶ El comienzo de la aventura 🏴‍☠️
+- [✅] Tailwind CSS *(Perfeccionando el arte del diseño)*
+- [ ] TypeScript fundamentals *(Aprendiendo el lenguaje de los navegantes)*
+- [ ] React básico *(Construyendo mi primera embarcación)*
 
-### ⏳ Próximamente
-- [ ] Next.js 14 (App Router, SSR)
-- [ ] React avanzado (Context, Performance)
-- [ ] NestJS (Modules, Controllers, Guards)
-- [ ] Supabase (Database design, Auth)
-- [ ] Gemini AI Integration
+### ⏳ Próximas islas por explorar 🏝️
+- [ ] Next.js 14 *(Navegando con viento a favor)*
+- [ ] React avanzado *(Dominando las corrientes marinas)*
+- [ ] NestJS *(Forjando armas legendarias)*
+- [ ] Supabase *(Creando mapas del tesoro)*
+- [ ] Gemini AI Integration *(El poder de la Fruta del Diablo)* 👹
 
 ---
 
